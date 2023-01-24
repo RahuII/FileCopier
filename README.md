@@ -16,4 +16,6 @@ logic:
 
 9. Under the try chatch block using the java NIO File class to copy a file form the source path(src) to the destination path(dest).
 10. StandardCopyOption.REPLACE_EXISTING option is used to overwrite the destination file if it already exists. After the file is copied, a message is printed to the console to confirm that the file was copied successfully
-
+<img width="960" alt="source code" src="https://user-images.githubusercontent.com/68543024/214286545-5aadde4a-3a40-49a4-9da8-b80dd7cda0b1.png">
+<img width="960" alt="final result" src="https://user-images.githubusercontent.com/68543024/214286479-09d03bf6-8bd4-4429-9882-8b0a547ac309.png">
+<img width="960" alt="output" src="https://user-images.githubusercontent.com/68543024/214286521-b4613f70-8be9-470a-a55a-60ea5bbb605c.png">
